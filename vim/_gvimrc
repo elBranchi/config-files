@@ -1,0 +1,6 @@
+"set gfn=Envy_Code_R:h11:cANSI
+set gfn=Source_Code_Pro:h11:cANSI
+set guioptions-=T " disable toolbar
+set lines=41
+set columns=128
+

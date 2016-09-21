@@ -1,0 +1,22 @@
+set nocompatible
+set ruler
+set history=400
+sy on
+set laststatus=2
+set enc=utf8
+set ic
+set scs
+set ts=4
+set sw=4
+set noexpandtab
+set clipboard=unnamed
+set bs=indent,eol,start
+set hlsearch
+set nowrap
+"let session_file=expand("~/vimfiles/sessions/default_session.vim")
+"let readable = filereadable(session_file)
+"echo "Checking " . session_file . " => " . readable
+
+"if filereadable(session_file)
+"	execute 'source '. fnameescape(session_file)
+"endif
